@@ -1,0 +1,15 @@
+This assignment is done by:
+Mike Chen 100873990
+Haochi You 100782657
+
+
+
+
+Pathfinding utilities:
+Waypoint system by WORQ MEDIA STUDIOS 
+https://assetstore.unity.com/packages/tools/behavior-ai/waypoint-system-113116
+
+
+Finite State Machine utilities:
+AI System (Finite) by Jorge Silva
+https://assetstore.unity.com/packages/tools/behavior-ai/ai-system-finite-213980
